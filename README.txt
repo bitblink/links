@@ -2,7 +2,7 @@
 
 ## exchanges
 <https://www.binance.com>
-<https://www.bitfinex.com/>
+<https://www.bitfinex.com>
 <https://bitso.com>
 <https://bittrex.com>
 <https://www.cryptopia.co.nz>
