@@ -1,7 +1,7 @@
 # links
 
 ## exchanges
-<https://www.binance.com>
+https://www.binance.com
 <https://www.bitfinex.com>
 <https://bitso.com>
 <https://bittrex.com>
